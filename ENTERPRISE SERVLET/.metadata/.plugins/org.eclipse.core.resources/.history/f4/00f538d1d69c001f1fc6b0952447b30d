@@ -1,0 +1,5 @@
+package sati.back;
+
+public class WelcomeServlet {
+
+}

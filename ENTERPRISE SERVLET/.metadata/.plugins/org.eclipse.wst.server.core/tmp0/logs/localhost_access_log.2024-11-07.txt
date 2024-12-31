@@ -1,0 +1,5 @@
+127.0.0.1 - - [07/Nov/2024:12:39:47 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [07/Nov/2024:12:39:47 +0530] "GET /Practiceproject/ HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [07/Nov/2024:12:39:48 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [07/Nov/2024:12:40:32 +0530] "GET /your-webapp-context/index.html. HTTP/1.1" 404 787
+0:0:0:0:0:0:0:1 - - [07/Nov/2024:12:40:37 +0530] "GET /your-webapp-context/index.html HTTP/1.1" 404 786
